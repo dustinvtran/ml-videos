@@ -8,7 +8,7 @@ This collection builds off the original compilation from [a blog post](http://du
 
 In general the following are excellent resources:
 
-+ [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Much of its content focuses on machine learning, ranging from conferences, workshops, lectures, and even discussions.
++ [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Much of its content focuses on the field, incorporating conferences, workshops, lectures, and even discussions.
 + [TechTalks.tv](http://techtalks.tv/) is the second most used archive. Notably, many ICML videos are located here.
 + [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn).
 
