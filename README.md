@@ -8,20 +8,21 @@ This collection builds off the original compilation from [a blog post](http://du
 
 In general the following are excellent resources:
 
-+ [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Browse the homepage and you'll see almost all machine learning videos featured on the frontpage, ranging from conferences, workshops, lectures, and even discussions.
++ [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Much of its content focuses on machine learning, ranging from conferences, workshops, lectures, and even discussions.
 + [TechTalks.tv](http://techtalks.tv/) is the second most used archive. Notably, many ICML videos are located here.
 + [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn).
 
 ## 2017
 
 + [Foundations of Machine Learning Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/schedule/3748)
-+ [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
 
 ## 2016
 
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
++ [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
 + [International Conference on Machine Learning](http://techtalks.tv/icml/2016/)
++ [International Conference on Learning Representations](http://videolectures.net/iclr2016_san_juan/)
 
 ## 2015
 
