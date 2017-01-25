@@ -1,4 +1,4 @@
-## Video resources for machine learning
+# Video Resources for Machine Learning
 
 This is a collection of recorded talks at machine learning conferences, workshops, summer schools, and other programs. It is actively maintained; please contribute to this list by submitting a pull request!
 
