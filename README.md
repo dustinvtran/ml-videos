@@ -19,12 +19,13 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
 + [International Conference on Machine Learning](http://techtalks.tv/icml/2016/)
-+ [Neural Information Processing Systems](http://research.microsoft.com/apps/catalog/default.aspx?p=1&sb=no&ps=25&t=videos&sf=&s=&r=&vr=&ra=)
 
 ## 2015
 
++ [Neural Information Processing Systems](https://nips.cc/Conferences/2015/Schedule)
 + [Gaussian Process Summer School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQJLRUSE9_55eXkwNXKTiNQF)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2015_montreal/)
 + [Uncertainty in Artificial Intelligence](https://www.youtube.com/channel/UCXDf7Y4KMcqPWHriorcMDNg/videos)
@@ -42,13 +43,17 @@ In general the following are excellent resources:
 + [International Conference on Machine Learning](http://techtalks.tv/icml2014/)
 + [Conference on Learning Theory](http://videolectures.net/colt2014_barcelona/)
 + [Artificial Intelligence and Statistics](https://www.youtube.com/channel/UCQeS3L6d-S6ZeCQChFyK5Uw)
+
+## 2013
+
 + [Gaussian Process Winter School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQKI1cs5yPRUYdgcsE0HctoQ)
 + [Machine Learning Summer School, Iceland](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ)
-+ [Neural Information Processing Systems](http://videolectures.net/nipsworkshops2013_laketahoe/)
++ [Neural Information Processing Systems](https://nips.cc/Conferences/2013/Schedule)
++ [Neural Information Processing Systems Workshops](http://videolectures.net/nipsworkshops2013_laketahoe/)
 + [International Conference on Machine Learning](http://techtalks.tv/icml2013/)
 + [Machine Learning Summer School, Tuebingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
 + [Conference on Learning Theory](http://videolectures.net/colt2013_princeton/)
-+ [2013-14: Harvard Institute for Quantitative Social Science, Applied Statistics Workshop](https://www.youtube.com/playlist?list=PLLoKvRqQVbtI-ZhBpBrKT2KllP5dH8O0M)
++ [Harvard Institute for Quantitative Social Science, Applied Statistics Workshop](https://www.youtube.com/playlist?list=PLLoKvRqQVbtI-ZhBpBrKT2KllP5dH8O0M)
 
 ## 2012
 
@@ -61,6 +66,7 @@ In general the following are excellent resources:
 ## 2011
 
 + [Neural Information Processing Systems](http://videolectures.net/nips2011_granada/)
++ [Neural Information Processing Systems Workshops](http://videolectures.net/nipsworkshops2011_sierranevada/)
 + [Uncertainty in Artificial Intelligence](http://videolectures.net/uai2011_barcelona/)
 + [Conference on Learning Theory](http://videolectures.net/colt2011_budapest/)
 + [Artificial Intelligence and Statistics](http://videolectures.net/aistats2011_fortlauderdale/)
@@ -93,4 +99,5 @@ In general the following are excellent resources:
 
 ## 2005
 
++ [Neural Information Processing Systems Workshop: Kernels](http://videolectures.net/nips05_whistler/)
 + [International Conference on Machine Learning](http://videolectures.net/icml05_bonn/)
