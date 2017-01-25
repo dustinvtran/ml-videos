@@ -21,7 +21,9 @@ In general the following are excellent resources:
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
 + [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
++ [Machine Learning Summer School, Peru](http://www.ucsp.edu.pe/ciet/mlss16/speakers.html)
 + [International Conference on Machine Learning](http://techtalks.tv/icml/2016/)
++ [Machine Learning Summer School, Cadiz](http://learning.mpi-sws.org/mlss2016/videos/)
 + [International Conference on Learning Representations](http://videolectures.net/iclr2016_san_juan/)
 
 ## 2015
@@ -33,6 +35,7 @@ In general the following are excellent resources:
 + [Arthur M. Sackler Colloquia: Drawing Causal Inference from Big Data](https://www.youtube.com/playlist?list=PLGJm1x3XQeK0NgFOX2Z7Wt-P5RU5Zv0Hv)
 + [International Conference on Learning Representations](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
 + [Conference on Learning Theory](http://videolectures.net/colt2015_paris/)
++ [Machine Learning Summer School, Tübingen](http://mlss.tuebingen.mpg.de/2015/speakers.html)
 + [Machine Learning Summer School, Sydney](https://www.youtube.com/channel/UCT1k2e63pqm_VSXmaF21n6g/videos)
 
 ## 2014
@@ -52,7 +55,7 @@ In general the following are excellent resources:
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2013/Schedule)
 + [Neural Information Processing Systems Workshops](http://videolectures.net/nipsworkshops2013_laketahoe/)
 + [International Conference on Machine Learning](http://techtalks.tv/icml2013/)
-+ [Machine Learning Summer School, Tuebingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
++ [Machine Learning Summer School, Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
 + [Conference on Learning Theory](http://videolectures.net/colt2013_princeton/)
 + [Harvard Institute for Quantitative Social Science, Applied Statistics Workshop](https://www.youtube.com/playlist?list=PLLoKvRqQVbtI-ZhBpBrKT2KllP5dH8O0M)
 
