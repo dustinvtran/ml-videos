@@ -1,8 +1,16 @@
 # Video Resources for Machine Learning
 
-This is a collection of recorded talks at machine learning conferences, workshops, summer schools, and other programs. It is actively maintained; please contribute to this list by submitting a pull request!
+This is a collection of recorded talks at machine learning conferences, workshops, seminars, summer schools, and miscellaneous programs. It is actively maintained; please add to this list by submitting a pull request!
 
 This collection builds off the original compilation from [a blog post](http://dustintran.com/blog/video-resources-for-machine-learning).
+
+## General
+
+In general the following are excellent resources:
+
++ [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Browse the homepage and you'll see almost all machine learning videos featured on the frontpage, ranging from conferences, workshops, lectures, and even discussions.
++ [TechTalks.tv](http://techtalks.tv/) is the second most used archive. Notably, many ICML videos are located here.
++ [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn).
 
 ## 2017
 
