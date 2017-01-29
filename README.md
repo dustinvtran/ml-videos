@@ -32,6 +32,7 @@ In general the following are excellent resources:
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2015/Schedule)
 + [Gaussian Process Summer School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQJLRUSE9_55eXkwNXKTiNQF)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2015_montreal/)
++ [International Conference on Machine Learning](http://videolectures.net/icml2015_lille/)
 + [Uncertainty in Artificial Intelligence](https://www.youtube.com/channel/UCXDf7Y4KMcqPWHriorcMDNg/videos)
 + [Arthur M. Sackler Colloquia: Drawing Causal Inference from Big Data](https://www.youtube.com/playlist?list=PLGJm1x3XQeK0NgFOX2Z7Wt-P5RU5Zv0Hv)
 + [International Conference on Learning Representations](https://www.youtube.com/playlist?list=PLhiWXaTdsWB8PnrVZquVyqlRFWXM4ijYz)
