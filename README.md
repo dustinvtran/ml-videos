@@ -20,6 +20,7 @@ In general the following are excellent resources:
 
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
++ [Knowledge Discovery and Data Mining](https://www.youtube.com/channel/UCPsUUDUlcTJuP-fRa7z85aQ/playlists)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
 + [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
 + [Machine Learning Summer School, Peru](http://www.ucsp.edu.pe/ciet/mlss16/speakers.html)
