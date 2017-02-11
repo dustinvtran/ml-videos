@@ -15,6 +15,7 @@ In general the following are excellent resources:
 ## 2017
 
 + [Foundations of Machine Learning Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/schedule/3748)
++ [StanCon](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
 
 ## 2016
 
