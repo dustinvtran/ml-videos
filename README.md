@@ -22,6 +22,7 @@ In general the following are excellent resources:
 ## 2016
 
 + [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PL8Yb49e5zFuztzY4wZRp_XIj6PREg3pw8)
++ [Neural Information Processing Systems Workshop, Adversarial Training](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
 + [Knowledge Discovery and Data Mining](https://www.youtube.com/channel/UCPsUUDUlcTJuP-fRa7z85aQ/playlists)
