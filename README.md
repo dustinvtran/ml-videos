@@ -14,6 +14,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Workshop on Validating and Expanding Approximate Bayesian Computation Methods](http://www.birs.ca/events/2017/5-day-workshops/17w5025/videos)
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 + [Foundations of Machine Learning Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/schedule/3748)
 + [StanCon](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
