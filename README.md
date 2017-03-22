@@ -14,6 +14,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Edinburgh Deep Learning Workshop](http://workshops.inf.ed.ac.uk/deep/deep2017/)
 + [Workshop on Validating and Expanding Approximate Bayesian Computation Methods](http://www.birs.ca/events/2017/5-day-workshops/17w5025/videos)
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
 + [Foundations of Machine Learning Boot Camp, Simons Institute](https://simons.berkeley.edu/workshops/schedule/3748)
@@ -21,7 +22,7 @@ In general the following are excellent resources:
 
 ## 2016
 
-+ [Neural Information Processing Systems Workshop,Bayesian Deep Learning](https://www.youtube.com/playlist?list=PLrcr1zcpLZb7paw9LNgx-zsCr-PstjBM6)
++ [Neural Information Processing Systems Workshop, Bayesian Deep Learning](https://www.youtube.com/playlist?list=PLrcr1zcpLZb7paw9LNgx-zsCr-PstjBM6)
 + [Neural Information Processing Systems Workshop, Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/schedule)
 + [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PL8Yb49e5zFuztzY4wZRp_XIj6PREg3pw8)
 + [Neural Information Processing Systems Workshop, Adversarial Training](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
