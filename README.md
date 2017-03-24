@@ -22,6 +22,7 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [Neural Information Processing Systems Symposium, RNN and Other Machines That Learn Algorithms](https://www.youtube.com/playlist?list=PLPwzH56Rdmq4hcuEMtvBGxUrcQ4cAkoSc)
 + [Neural Information Processing Systems Workshop, Bayesian Deep Learning](https://www.youtube.com/playlist?list=PLrcr1zcpLZb7paw9LNgx-zsCr-PstjBM6)
 + [Neural Information Processing Systems Workshop, Reliable Machine Learning in the Wild](https://sites.google.com/site/wildml2016nips/schedule)
 + [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PL8Yb49e5zFuztzY4wZRp_XIj6PREg3pw8)
