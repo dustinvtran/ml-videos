@@ -14,6 +14,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
 + [Data Learning and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
 + [Edinburgh Deep Learning Workshop](http://workshops.inf.ed.ac.uk/deep/deep2017/)
 + [Workshop on Validating and Expanding Approximate Bayesian Computation Methods](http://www.birs.ca/events/2017/5-day-workshops/17w5025/videos)
