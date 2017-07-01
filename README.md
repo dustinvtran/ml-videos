@@ -14,6 +14,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Broad Institute Seminar: Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
 + [Data Learning and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
 + [Edinburgh Deep Learning Workshop](http://workshops.inf.ed.ac.uk/deep/deep2017/)
