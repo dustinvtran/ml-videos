@@ -14,6 +14,7 @@ In general the following are excellent resources:
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
 ## 2017
++ [Computer Vision and Pattern Recognition - Spotlights, Orals and Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
 + [Data Learning and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
 + [Edinburgh Deep Learning Workshop](http://workshops.inf.ed.ac.uk/deep/deep2017/)
@@ -24,6 +25,7 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [Computer Vision and Pattern Recognition](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [Neural Information Processing Systems Workshop, Nonconvex Optimization: Theory and Practice](https://www.youtube.com/playlist?list=PLSkaTb2vk5tATPJB_VTgguwmS89GVznN0)
 + [Neural Information Processing Systems Symposium, RNN and Other Machines That Learn Algorithms](https://www.youtube.com/playlist?list=PLPwzH56Rdmq4hcuEMtvBGxUrcQ4cAkoSc)
 + [Neural Information Processing Systems Workshop, Bayesian Deep Learning](https://www.youtube.com/playlist?list=PLrcr1zcpLZb7paw9LNgx-zsCr-PstjBM6)
