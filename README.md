@@ -25,6 +25,7 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [European Conference on Computer Vision](http://videolectures.net/eccv2016_amsterdam/)
 + [Computer Vision and Pattern Recognition](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [Neural Information Processing Systems Workshop, Nonconvex Optimization: Theory and Practice](https://www.youtube.com/playlist?list=PLSkaTb2vk5tATPJB_VTgguwmS89GVznN0)
 + [Neural Information Processing Systems Symposium, RNN and Other Machines That Learn Algorithms](https://www.youtube.com/playlist?list=PLPwzH56Rdmq4hcuEMtvBGxUrcQ4cAkoSc)
@@ -44,6 +45,8 @@ In general the following are excellent resources:
 
 ## 2015
 
++ [Computer Vision and Pattern Recognition](http://techtalks.tv/cvpr/2015/)
++ [International Conference on Computer Vision](http://videolectures.net/iccv2015_santiago/)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2015/Schedule)
 + [Gaussian Process Summer School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQJLRUSE9_55eXkwNXKTiNQF)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2015_montreal/)
@@ -57,6 +60,9 @@ In general the following are excellent resources:
 
 ## 2014
 
++ [Computer Vision and Pattern Recognition - Oral](http://techtalks.tv/cvpr-2014-oral-talks/)
++ [Computer Vision and Pattern Recognition - Spotlights](http://techtalks.tv/cvpr-2014-video-highlights/)
++ [European Conference on Computer Vision](http://videolectures.net/eccv2014_zurich/)
 + [UToronto Workshop on Big Data and Statistical Machine Learning](http://www.fields.utoronto.ca/video-archive/event/316/2014)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2014/Schedule)
 + [Gaussian Process Summer School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQKgrpK70Ym04Ju3-9W-QXns)
@@ -67,6 +73,7 @@ In general the following are excellent resources:
 
 ## 2013
 
++ [International Conference on Computer Vision](http://techtalks.tv/iccv2013/)
 + [Gaussian Process Winter School, Sheffield](https://www.youtube.com/playlist?list=PLhoHEZlJjdQKI1cs5yPRUYdgcsE0HctoQ)
 + [Machine Learning Summer School, Iceland](https://www.youtube.com/channel/UC3ywjSv5OsDiDAnOP8C1NiQ)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2013/Schedule)
