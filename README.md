@@ -14,6 +14,8 @@ In general the following are excellent resources:
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
 ## 2017
+
++ [Deep Learning Summer School and Reinforcement Learning Summer School, Montreal](http://videolectures.net/deeplearning2017_montreal/)
 + [Computer Vision and Pattern Recognition - Spotlights, Orals and Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
 + [Data Learning and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
