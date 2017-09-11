@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Empirical Methods on Natural Language Processing](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%229042b495-7b6b-4169-a5a1-d250cc0ee4ec%22)
 + [Deep Learning Summer School and Reinforcement Learning Summer School, Montreal](http://videolectures.net/deeplearning2017_montreal/)
 + [Computer Vision and Pattern Recognition - Spotlights, Orals and Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
