@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 + [Cognitive Computational Neuroscience](http://ccneuro.org/2017videos/)
 + [Gaussian Process Summer School, Sheffield](http://gpss.cc/gpss17/program)
 + [Empirical Methods on Natural Language Processing](https://ku.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx#folderID=%229042b495-7b6b-4169-a5a1-d250cc0ee4ec%22)
