@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Deep Learning: Theory, Algorithms, and Applications](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
 + [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 + [Cognitive Computational Neuroscience](http://ccneuro.org/2017videos/)
 + [Gaussian Process Summer School, Sheffield](http://gpss.cc/gpss17/program)
