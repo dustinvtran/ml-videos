@@ -42,6 +42,7 @@ In general the following are excellent resources:
 + [Neural Information Processing Systems Workshop, Adversarial Training](https://www.youtube.com/playlist?list=PLJscN9YDD1buxCitmej1pjJkR5PMhenTF)
 + [Neural Information Processing Systems](https://nips.cc/Conferences/2016/Schedule)
 + [Bay Area Deep Learning School](https://www.bayareadlschool.org/)
++ [Deep Learning, Tools and Methods Workshop](https://portal.klewel.com/watch/webcast/deep-learning-tools-and-methods-workshop/)
 + [Knowledge Discovery and Data Mining](https://www.youtube.com/channel/UCPsUUDUlcTJuP-fRa7z85aQ/playlists)
 + [Deep Learning Summer School, Montreal](http://videolectures.net/deeplearning2016_montreal/)
 + [Uncertainty in Computation, Simons Institute](https://simons.berkeley.edu/workshops/logic2016-1)
