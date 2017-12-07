@@ -15,6 +15,8 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Neural Information Processing Systems](https://www.facebook.com/pg/nipsfoundation/videos/?ref=page_internal)
++ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
 + [Deep Learning: Theory, Algorithms, and Applications](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
 + [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 + [Cognitive Computational Neuroscience](http://ccneuro.org/2017videos/)
