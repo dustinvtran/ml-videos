@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Machine Learning Summer School, Tübingen, Germany](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 + [Speech and Audio in the Northeast](https://www.youtube.com/playlist?list=PLBJWRPcgwk7tNLaBVu_S90ZQSblO3bwjg)
 + [Neural Information Processing Systems](https://www.facebook.com/pg/nipsfoundation/videos/?ref=page_internal)
 + [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
