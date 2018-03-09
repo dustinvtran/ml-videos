@@ -15,11 +15,12 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [International Conference on Machine Learning - Tutorials, Invited Talks and Papers](https://icml.cc/Conferences/2017/Videos)
 + [Neural Information Processing Systems Workshop, Deep Learning for Physical Sciences](https://www.youtube.com/playlist?list=PL6_fD5q0zQxshmFJCSBaA5Jglf62Ct4Vm)
 + [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PLsatQfvo0v3sUhi3ijRme9MyqwLL5EOiG)
 + [Machine Learning Summer School, Tübingen, Germany](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 + [Speech and Audio in the Northeast](https://www.youtube.com/playlist?list=PLBJWRPcgwk7tNLaBVu_S90ZQSblO3bwjg)
-+ [Neural Information Processing Systems](https://www.facebook.com/pg/nipsfoundation/videos/?ref=page_internal)
++ [Neural Information Processing Systems - Tutorials, Invited Talks, Papers and Symposiums](https://nips.cc/Conferences/2017/Videos)
 + [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
 + [Deep Learning: Theory, Algorithms, and Applications](https://www.youtube.com/playlist?list=PLJOzdkh8T5kqCNV_v1w2tapvtJDZYiohW)
 + [Deep Reinforcement Learning Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
