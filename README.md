@@ -13,6 +13,10 @@ In general the following are excellent resources:
 + [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn). Also, the user [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk) has created several basic mathematical and probability overviews for many [ML methods](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA).
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
+## 2018
+
++ [SysML Conference](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/videos?disable_polymer=1)
+
 ## 2017
 
 + [International Conference on Machine Learning - Tutorials, Invited Talks and Papers](https://icml.cc/Conferences/2017/Videos)
