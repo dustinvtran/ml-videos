@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
 + [Scaled Machine Learning](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 + [SysML Conference](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/videos?disable_polymer=1)
 
