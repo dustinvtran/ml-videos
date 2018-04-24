@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Data, Learning, and Inference](https://www.youtube.com/playlist?list=PL-tWvTpyd1VD0d5lXQS53QlQm0fxOcC17), including workshops ([[1]](https://www.youtube.com/watch?v=D6uqGwBGMgc&list=PL-tWvTpyd1VCXhZK7oIcb74-MvrH9Ea3c), [[2]](https://www.youtube.com/watch?v=2vxZbZC21Gg&list=PL-tWvTpyd1VAlbzhCpljlREd76Nlo1pOo))
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
 + [Scaled Machine Learning](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
 + [SysML Conference](https://www.youtube.com/channel/UChutDKIa-AYyAmbT45s991g/videos?disable_polymer=1)
@@ -36,7 +37,7 @@ In general the following are excellent resources:
 + [Deep Learning Summer School and Reinforcement Learning Summer School, Montreal](http://videolectures.net/deeplearning2017_montreal/)
 + [Computer Vision and Pattern Recognition - Spotlights, Orals and Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [GPU Technology Conference](http://on-demand-gtc.gputechconf.com/gtc-quicklink/g6VqzTi)
-+ [Data Learning and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
++ [Data, Learning, and Inference Workshop, Data Efficient Reinforcement Learning](https://www.youtube.com/playlist?list=PL-tWvTpyd1VAvDpxukup6w-SuZQQ7e8K8)
 + [Edinburgh Deep Learning Workshop](http://workshops.inf.ed.ac.uk/deep/deep2017/)
 + [Workshop on Validating and Expanding Approximate Bayesian Computation Methods](http://www.birs.ca/events/2017/5-day-workshops/17w5025/videos)
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv)
