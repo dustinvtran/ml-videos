@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/posts/)
 + [Data, Learning, and Inference](https://www.youtube.com/playlist?list=PL-tWvTpyd1VD0d5lXQS53QlQm0fxOcC17), including workshops ([[1]](https://www.youtube.com/watch?v=D6uqGwBGMgc&list=PL-tWvTpyd1VCXhZK7oIcb74-MvrH9Ea3c), [[2]](https://www.youtube.com/watch?v=2vxZbZC21Gg&list=PL-tWvTpyd1VAlbzhCpljlREd76Nlo1pOo))
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
 + [Scaled Machine Learning](https://www.matroid.com/blog/post/slides-and-videos-from-scaledml-2018)
