@@ -15,6 +15,9 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiecai18/videos)
++ [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/)
++ [Conference on Computer Vision and Pattern Recognition](https://www.youtube.com/playlist?list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y) ([Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS), [Workshops](https://www.youtube.com/playlist?list=PL_bDvITUYucB5y7d9KbROEtrbLrE4IuR7))
 + [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/posts/)
 + [Data, Learning, and Inference](https://www.youtube.com/playlist?list=PL-tWvTpyd1VD0d5lXQS53QlQm0fxOcC17), including workshops ([[1]](https://www.youtube.com/watch?v=D6uqGwBGMgc&list=PL-tWvTpyd1VCXhZK7oIcb74-MvrH9Ea3c), [[2]](https://www.youtube.com/watch?v=2vxZbZC21Gg&list=PL-tWvTpyd1VAlbzhCpljlREd76Nlo1pOo))
 + [TensorFlow Dev Summit](https://www.youtube.com/playlist?list=PLQY2H8rRoyvxjVx3zfw4vA4cvlKogyLNN)
@@ -23,6 +26,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [AI By the Bay](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU) 
 + [International Conference on Machine Learning - Tutorials, Invited Talks and Papers](https://icml.cc/Conferences/2017/Videos)
 + [Neural Information Processing Systems Workshop, Deep Learning for Physical Sciences](https://www.youtube.com/playlist?list=PL6_fD5q0zQxshmFJCSBaA5Jglf62Ct4Vm)
 + [Neural Information Processing Systems Workshop, Approximate Inference](https://www.youtube.com/playlist?list=PLsatQfvo0v3sUhi3ijRme9MyqwLL5EOiG)
