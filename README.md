@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
 + [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiecai18/videos)
 + [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/)
 + [Conference on Computer Vision and Pattern Recognition](https://www.youtube.com/playlist?list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y) ([Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS), [Workshops](https://www.youtube.com/playlist?list=PL_bDvITUYucB5y7d9KbROEtrbLrE4IuR7))
