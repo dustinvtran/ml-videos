@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2018/) (pswd:cogscitv)
 + [North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
 + [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiecai18/videos)
 + [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/)
@@ -27,6 +28,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2017/) (pswd:cogscitv)
 + [AI By the Bay](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU) 
 + [International Conference on Machine Learning - Tutorials, Invited Talks and Papers](https://icml.cc/Conferences/2017/Videos)
 + [Neural Information Processing Systems Workshop, Deep Learning for Physical Sciences](https://www.youtube.com/playlist?list=PL6_fD5q0zQxshmFJCSBaA5Jglf62Ct4Vm)
