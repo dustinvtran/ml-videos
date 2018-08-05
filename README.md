@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [AAAI Conference on Artificial Intelligence](https://www.youtube.com/playlist?list=PL_9a5ic6GUim0HB71cILHmQwfdKiwZ-MG)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2018/) (pswd:cogscitv)
 + [North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
 + [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiecai18/videos)
@@ -28,6 +29,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ [AAAI Conference on Artificial Intelligence](http://videolectures.net/aaai2017_sanfrancisco/)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2017/) (pswd:cogscitv)
 + [AI By the Bay](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU) 
 + [International Conference on Machine Learning - Tutorials, Invited Talks and Papers](https://icml.cc/Conferences/2017/Videos)
@@ -54,6 +56,7 @@ In general the following are excellent resources:
 
 ## 2016
 
++ [AAAI Conference on Artificial Intelligence](http://videolectures.net/aaai2016_phoenix/)
 + [European Conference on Computer Vision](http://videolectures.net/eccv2016_amsterdam/)
 + [Computer Vision and Pattern Recognition](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
 + [Neural Information Processing Systems Workshop, Nonconvex Optimization: Theory and Practice](https://www.youtube.com/playlist?list=PLSkaTb2vk5tATPJB_VTgguwmS89GVznN0)
