@@ -15,6 +15,7 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Montreal AI Symposium](http://montrealaisymposium.com/)
 + [AAAI Conference on Artificial Intelligence](https://www.youtube.com/playlist?list=PL_9a5ic6GUim0HB71cILHmQwfdKiwZ-MG)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2018/) (pswd:cogscitv)
 + [North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
@@ -29,6 +30,7 @@ In general the following are excellent resources:
 
 ## 2017
 
++ Montreal AI Symposium [[Morning Session]](https://www.youtube.com/watch?v=02xIkHowQOk) [[Afternoon Session]](https://www.youtube.com/watch?v=cdcKwefTT6M)
 + [AAAI Conference on Artificial Intelligence](http://videolectures.net/aaai2017_sanfrancisco/)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2017/) (pswd:cogscitv)
 + [AI By the Bay](https://www.youtube.com/playlist?list=PLNESult6cnOk3Q8tjfSIWy49Fz37l0wZU) 
