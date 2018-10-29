@@ -15,6 +15,8 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Deep Learning Summer School and Reinforcement Learning Summer School, Toronto](http://videolectures.net/DLRLsummerschool2018_toronto/)
++ [Conference on Learning Theory](https://www.youtube.com/playlist?list=PLCHBdlWR7RYzMjoGTatLItEhisi5sBNFh)
 + [Montreal AI Symposium](http://montrealaisymposium.com/)
 + [AAAI Conference on Artificial Intelligence](https://www.youtube.com/playlist?list=PL_9a5ic6GUim0HB71cILHmQwfdKiwZ-MG)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2018/) (pswd:cogscitv)
