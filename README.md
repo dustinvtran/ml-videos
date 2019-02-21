@@ -15,6 +15,8 @@ In general the following are excellent resources:
 
 ## 2018
 
++ [Neural Information Processing Systems Workshop, Security in Machine Learning](https://www.youtube.com/playlist?list=PLFG9vaKTeJq4IpOje38YWA9UQu_COeNve)
++ [Neural Information Processing Systems - Tutorials, Spotlights and Posters](https://nips.cc/Conferences/2018/Videos)
 + [International Conference on Probabilistic Programming](https://www.youtube.com/playlist?list=PL_PW0E_Tf2qvXBEpl10Y39RULTN-ExzZQ)
 + [Deep|Bayes – Summer school on Deep Learning and Bayesian Methods, Moscow](https://www.youtube.com/playlist?list=PLe5rNUydzV9Q01vWCP9BV7NhJG3j7mz62)
 + [Deep Learning Summer School and Reinforcement Learning Summer School, Toronto](http://videolectures.net/DLRLsummerschool2018_toronto/)
