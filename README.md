@@ -13,19 +13,27 @@ In general the following are excellent resources:
 + [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn). Also, the user [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk) has created several basic mathematical and probability overviews for many [ML methods](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA).
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
+## 2020
+
++ [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/livestreamed-talks/)
+
 ## 2019
 
++ [Neural Information Processing Systems - Papers, Tutorials and Workshops](https://slideslive.com/neurips)
++ [Cognitive Computational Neuroscience](https://ccneuro.org/2019/videos.asp)
++ [Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/1503729)
++ [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcai/videos)
++ [Conference on Learning Theory](https://www.youtube.com/playlist?list=PLCHBdlWR7RYz4jx6NPdnI_1rP3kj0E3G8)
++ International Conference on Computer Vision ([Oral Session](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos))
 + Conference on Computer Vision and Pattern Recognition ([Oral Session](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos))
 + [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/), alternate link ([[1]](https://slideslive.com/icml))
 + [Learning for Dynamics and Control](https://l4dc.mit.edu/videos/)
-+ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal)
-+ [International Conference on Learning Representations Workshops](https://slideslive.com/iclr/)
++ [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/videos/?ref=page_internal) ([Workshops](https://slideslive.com/iclr/))
 + [AAAI Conference on Artificial Intelligence](https://videos.videoken.com/index.php/videoscategory/aaai-2019/)
 
 ## 2018
 
 + [Cognitive Computational Neuroscience](https://ccneuro.org/2018/videos.asp)
-+ [Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018)
 + [Empirical Methods on Natural Language Processing](https://vimeo.com/channels/1427394)
 + [Annual Meeting of the Association for Computational Linguistics](https://vimeo.com/showcase/5391494)
 + [Neural Information Processing Systems Workshop, Security in Machine Learning](https://www.youtube.com/playlist?list=PLFG9vaKTeJq4IpOje38YWA9UQu_COeNve)
@@ -37,8 +45,8 @@ In general the following are excellent resources:
 + [Montreal AI Symposium](http://montrealaisymposium.com/)
 + [AAAI Conference on Artificial Intelligence](https://www.youtube.com/playlist?list=PL_9a5ic6GUim0HB71cILHmQwfdKiwZ-MG)
 + [Annual Meeting of the Cognitive Science Society](https://cogsci.tv/category/cogsci2018/) (pswd:cogscitv)
-+ [North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
-+ [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiecai18/videos)
++ [Annual Conference of the North American Chapter of the Association for Computational Linguistics](https://vimeo.com/channels/naacl2018/videos/)
++ [International Joint Conference on Artificial Intelligence](https://www.facebook.com/pg/ijcaiconf/videos)
 + [International Conference on Machine Learning](https://www.facebook.com/pg/icml.imls/videos/)
 + [Conference on Computer Vision and Pattern Recognition](https://www.youtube.com/playlist?list=PL_bDvITUYucCIT8iNGW8zCXeY5_u6hg-y) ([Tutorials](https://www.youtube.com/playlist?list=PL_bDvITUYucD54Ym5XKGqTv9xNsrOX0aS), [Workshops](https://www.youtube.com/playlist?list=PL_bDvITUYucB5y7d9KbROEtrbLrE4IuR7))
 + [International Conference on Learning Representations](https://www.facebook.com/pg/iclr.cc/posts/)
