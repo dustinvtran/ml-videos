@@ -10,11 +10,16 @@ In general the following are excellent resources:
 
 + [VideoLectures.NET](http://videolectures.net/) is the primary video archive for machine learning. Much of its content focuses on the field, incorporating conferences, workshops, lectures, and even discussions.
 + [TechTalks.tv](http://techtalks.tv/) is the second most used archive. Notably, many ICML videos are located here.
++ [Slideslive](https://slideslive.com/) is recently being used by the ML community. Eg: ICML, NeurIPS, ICLR.
 + [Youtube](http://youtube.com/) contains a few, such as certain AISTATS and ICLR years. It's best for collecting lectures, such as by [Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and [Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn). Also, the user [mathematicalmonk](https://www.youtube.com/user/mathematicalmonk) has created several basic mathematical and probability overviews for many [ML methods](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA).
 + [Models, Inference, & Algorithms](https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms) at the Broad Institute of MIT and Harvard has slide decks and a growing [playlist](https://www.youtube.com/playlist?list=PLlMMtlgw6qNjROoMNTBQjAcdx53kV50cS) on machine learning for biomedical research.
 
 ## 2020
 
++ [Conference on Learning Theory](https://www.youtube.com/playlist?list=PLCHBdlWR7RYw4LAGsUrCLamYRnBf9pTTT)
++ [Conference on Computer Vision and Pattern Recognition - Papers, Workshops, Tutorials](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/playlists)
++ [International Conference on Machine Learning](https://slideslive.com/icml-2020)
++ International Conference on Learning Representations ([Keynote+Q&A](https://iclr.cc/virtual_2020/calendar.html)) ([Papers](https://iclr.cc/virtual_2020/papers.html?filter=keywords/))
 + [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-20/livestreamed-talks/)
 
 ## 2019
